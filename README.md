@@ -125,3 +125,7 @@ yarn start
 - Frontend uses the backend API for minting and accessing transaction data, while BE communicates with the smart contract and manages private keys securely.  
 - FE and BE together ensure a separation of responsibilities: FE for user interactions and immediate wallet actions, BE for sensitive operations and data aggregation.
 
+## 8. Known Issues / Limitations
+
+- Docker wasnt implemented.
+
