@@ -33,10 +33,6 @@ Before setting up, make sure you have:
 ## 3. Setup Instructions
 
 ### Step 1: Clone the repository
-```bash
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>.git
-cd <REPO_NAME>
-```
 
 ### Step 2: Create `.env` files
 Create `.env` files in both **backend** and **frontend** folders. Replace placeholders with your own keys.
