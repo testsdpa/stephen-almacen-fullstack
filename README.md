@@ -128,4 +128,5 @@ yarn start
 ## 8. Known Issues / Limitations
 
 - Docker wasnt implemented.
+- Only ERC-20 no ERC-721 implementeed 
 
